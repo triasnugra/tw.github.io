@@ -5,25 +5,28 @@ body {
 
 .container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr;
   grid-gap: 20px;
   padding: 20px;
 }
 
 .bright-bg {
-  background-color: #f0f0f0;
+  background-color: #f8f8f8;
   font-family: serif;
   padding: 20px;
+  border-radius: 8px;
 }
 
 .dark-bg {
   background-color: #333;
   color: #fff;
   padding: 20px;
+  border-radius: 8px;
 }
 
 .monospace-font {
   font-family: 'Courier New', Courier, monospace;
-  grid-column: 1 / span 2;
   text-align: center;
+  padding: 20px;
+  border-radius: 8px;
 }

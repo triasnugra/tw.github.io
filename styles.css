@@ -1,6 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
+  color: mediumvioletred;
 }
 
 .container {
@@ -10,16 +11,26 @@ body {
   padding: 20px;
 }
 
-.bright-bg {
-  background-color: #f8f8f8;
+.white-bg {
+  background-color: #fff;
+  color: mediumvioletred;
   font-family: serif;
   padding: 20px;
   border-radius: 8px;
 }
 
-.dark-bg {
-  background-color: #333;
+.teal-bg {
+  background-color: teal;
   color: #fff;
+  font-family: sans-serif;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.steelblue-bg {
+  background-color: steelblue;
+  color: #fff;
+  font-family: sans-serif;
   padding: 20px;
   border-radius: 8px;
 }

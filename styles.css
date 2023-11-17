@@ -1,26 +1,29 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
   margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
 }
 
 .container {
-  text-align: center;
-  background-color: #fff;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
   padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.date-time {
-  font-size: 20px;
-  margin-bottom: 20px;
+.bright-bg {
+  background-color: #f0f0f0;
+  font-family: serif;
+  padding: 20px;
 }
 
-.countdown {
-  font-size: 24px;
+.dark-bg {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.monospace-font {
+  font-family: 'Courier New', Courier, monospace;
+  grid-column: 1 / span 2;
+  text-align: center;
 }

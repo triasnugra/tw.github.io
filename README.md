@@ -14,7 +14,7 @@ tapi pagi ini aku terus menangis.
    memang bodohnya aku sampai saat ini aku gabisa/gamampu untuk balas jasa atau bayar utang ke mas haho.
    keadaanku sangat sulit, dari kebingungan harus S2 karena prestasi akdemikku, atau kerja sedapatnya.
    kenyataannya sangat pahit, S2 pun sama sekali sangat susah secara struktural unt mendapat gaji layak (UMR), atau harus merantau ke universitas yang sangat jauh & itu juga ga setimpal dengan biaya hidup, beban kerja & biaya untuk pulang kampung.
-   kenyataannya banyak lulusan S2 & S3, yang sangat diperlusit karirnya dengan kebijakan negara ini.
+   kenyataannya banyak lulusan S2 & S3, yang sangat diperlusit karirnya dengan kebijakan negara ini. aku pun juga sudah berusaha sebisa mungkin, mulai dulu jadi sparing badminton, jual jasa tryout online, produksi buku & dijual, marketing online, guri honorer, melamar2 kerja swasta, kerja di BPO, membantu bapak urusan sawah.
 2. istrinya mas haho juga pernah berkata ke adikku, dimana adikku saat itu masih usia SD.
    adikku ingin punya uang tabungan sampai 100juta rupiah.
    namun istrinya mas haho langsung bilang "mbok rasah berhalusinasi, mas agung sing kerjo koyo ngono e angel nglumpukne duit semono",

@@ -31,9 +31,9 @@ tapi pagi ini aku terus menangis.
 
 #####
 
-suatu saat kalau aku meninggal.
+_suatu saat kalau aku meninggal.
 aku harap ada anggota keluargaku yang baca ini.
-aku pengen warisanku diwakafkan untuk beramal pada oranglain, untuk biaya pendidikan adik & ponakanku.
+aku pengen warisanku diwakafkan untuk beramal pada oranglain & juga untuk biaya pendidikan adik & ponakanku._
 
 #####
 
